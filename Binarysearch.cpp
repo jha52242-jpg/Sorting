@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int arr[]={6,8,12,15,18};
-    int key=15;
+    int key=20;
     int n=sizeof arr/sizeof(int);
     int start=0;
     int end=n-1;
